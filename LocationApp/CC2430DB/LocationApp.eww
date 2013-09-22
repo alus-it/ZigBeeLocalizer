@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<workspace>
+  <project>
+    <path>$WS_DIR$\LocationApp.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>Build All</name>
+      <member>
+        <project>LocationApp</project>
+        <configuration>GatewayEB</configuration>
+      </member>
+      <member>
+        <project>LocationApp</project>
+        <configuration>RefNodeBB</configuration>
+      </member>
+      <member>
+        <project>LocationApp</project>
+        <configuration>BlindNodeBB</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>

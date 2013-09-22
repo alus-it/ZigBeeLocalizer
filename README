@@ -1,0 +1,14 @@
+Brief description
+
+This localization system for ZigBee sensors networks is based on the analysis of RSSI (Received Signal Strength Indicator) measurements, the system it tries to estimate the position of the mobile nodes using the RSSI received by the other neighbors fixed nodes used as reference points. The project in divided in two parts:
+
+1. LocationApp: Firmware application in C for the ZigBee modules.
+
+2. LocationService: Java web application service that collects data from the WSN network into a MySQL DB and analyses data and produces results in a accessible ­servlet where the user can also manage the entire WSN network.
+
+For more information refer to to project web page: http://www.alus.it/pubs/LocationService
+
+Alberto Realis-Luc
+info@alus.it
+
+
