@@ -7,7 +7,7 @@
 // Author         : Alberto Realis-Luc <alberto.realisluc@gmail.com>
 // Since          : May 2008
 // Web            : http://www.alus.it/pubs/LocationService/
-// SVN Repository : https://zigbeelocalizer.svn.sourceforge.net/svnroot/zigbeelocalizer
+// Git Repository : https://github.com/alus-it/ZigBeeLocalizer.git
 // Version        : 1.0
 // Copyright      : © 2008-2009 Alberto Realis-Luc
 // License        : GPL
